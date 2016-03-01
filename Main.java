@@ -1,6 +1,6 @@
 
 public class Main {
-
+//To jest moj sprawdzajacy komentarz
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
