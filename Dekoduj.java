@@ -4,7 +4,7 @@ public class Dekoduj {
 	
 	public static void Dekoduj(double value, int length,char znaki[],double prop[]){
 		
-		System.out.println("Fiutek");
+		System.out.println("Sprawdzam");
 		String wynik = "";
 		StringBuilder str = new StringBuilder(wynik);
 		
